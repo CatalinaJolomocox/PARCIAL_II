@@ -1,24 +1,21 @@
-/* body{
-    background-color:;
-} */
-
 h1{
     text-align: center;
+    font-family: 'Caveat Brush', cursive;
 }
 /* ---------------------- Navbar ------------------------- */
 .navbar{
-    background-color: black;
+    background-color: red;
     box-shadow: 0 2px 4px gray;
     font-size: 20px;
     font-family: 'Kaushan Script', cursive;
 }
 
 .nav-link {
-    color: white;
+    color: black;
 }
 
 .nav-link:hover {
-    color: red;
+    color: white;
 }
 
 .navbar-toggler{
