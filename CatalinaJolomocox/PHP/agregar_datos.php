@@ -1,5 +1,5 @@
 <?php
-    require_once "../../BD/conexion.php";
+    require_once "../BD/conexion.php";
     $conexion = conexion(); 
 
 
